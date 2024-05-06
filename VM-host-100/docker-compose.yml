@@ -4,6 +4,6 @@ services:
   web:
     build: .
     ports:
-      - "80:80"
+      - "8082:80"
     volumes:
       - ./demo/:/var/www/html/ 
