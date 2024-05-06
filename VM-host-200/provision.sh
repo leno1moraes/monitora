@@ -15,4 +15,4 @@ curl -L "https://github.com/docker/compose/releases/latest/download/docker-compo
 chmod +x /usr/local/bin/docker-compose
 
 # Run Docker Compose as root
-sudo su -c "cd /projeto && docker-compose up -d"
+# sudo su -c "cd /projeto && docker-compose up -d"
