@@ -36,7 +36,7 @@
         </nav>       
                 
         <main>
-            <?php echo "feito em PHP" ?>
+            <?php echo "feito em PHP 1" ?>
             
             <h1>Dados do host</h1>
         </main>

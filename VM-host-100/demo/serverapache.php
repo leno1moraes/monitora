@@ -36,6 +36,8 @@
         </nav>       
                 
         <main>
+            <?php echo "feito em PHP 2" ?>
+
             <h1>Servidor Apache</h1>
         </main>
 
