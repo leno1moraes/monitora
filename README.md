@@ -19,7 +19,7 @@ Virtualbox
 ...
 
 
-## instruções:
+## Instruções:
 
 executar: ./start.sh 
 (subir as VM)
